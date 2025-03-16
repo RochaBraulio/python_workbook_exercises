@@ -21,4 +21,4 @@ postal_code = "48202"
 
 print(f'{first_name} {last_name}')
 print(f'{street_name}, {house_number} - {apartment_number}')
-print(f'{city}, {country} - {48202}')
+print(f'{city}, {country} - {postal_code}')
